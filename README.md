@@ -8,6 +8,15 @@ Check the project demo here: https://pacmanblog2.herokuapp.com/
 * Run the program the project:
     * python manage.py runserver 
     
+* Navigation Scheme:
+    * /
+    * /accounts/login/
+    * /accounts/signup/
+    * /accounts/password_reset/
+    * /post/new/
+    
+    
+    
  #####Created by Pacome Kemkeu
  ##### add me on Twitter @TKemkeu
  
