@@ -1,5 +1,5 @@
 # blog: A Simple CRUD Django project
-Check the project demo here: https://pacmanblog2.herokuapp.com/
+Check the project demo here: http://pacm4n83.pythonanywhere.com/
 * Download the project:
     * $git clone https://github.com/Pacm4n83/blog.git
 * Enter the project & Install requirements:

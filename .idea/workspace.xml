@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d58c0a9-0523-453d-a2e1-8c0942bc2108" name="Default Changelist" comment="" />
+    <list default="true" id="3d58c0a9-0523-453d-a2e1-8c0942bc2108" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rYPqgIdDLLcVMmFNqeF1YQWibR" />
   <component name="ProjectViewState">
@@ -56,20 +64,20 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="439" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619441369542" />
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1619542469479">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1619618000433">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619542469479" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619618000433" />
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1619413766179" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1619441575545">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619441575545" />
     <state x="121" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1619318519420" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1619409914832">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1619617853762">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619257651606" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1619617853762" />
     <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1619409914832" />
   </component>
 </project>
