@@ -6,4 +6,34 @@
         <h2>{{ object.title }}</h2>
         <p>{{ object.body }}</p>
     </div>
+
+    <a href="{% url 'post_edit' post.pk %}">+ Edit Blog Post</a>
+    <p><a href="{% url 'post_delete' post.pk %}">+ Delete Blog Post</a></p>
+
+    <hr>
+        {% if user.is_authenticated %}
+            <a class="btn btn-default" href="{% url 'add_comment_to_post' pk=post.pk %}">Add comment</a>
+
+            {% for comment in post.comments.all %}
+
+                <div class="comment">
+                    <div class="date">
+                        {{ comment.created_date }}
+                    </div>
+                    <strong>{{ comment.author }}</strong>
+                    <p>{{ comment.text|linebreaks }}</p>
+
+            {% empty %}
+                <p>No comments here yet !</p>
+            {% endfor %}
+
+
+        {% else %}
+                    <p>You should Log in to see comments!</p>
+
+        {% endif %}
+
+
+
+
 {% endblock content %}
