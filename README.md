@@ -1,12 +1,12 @@
 # blog: A Simple CRUD Django project
 Check the project demo here: https://pacmanblog2.herokuapp.com/
 * Download the project:
-    * $git clone https://github.com/TheMuntu/blog.git
+    * $ git clone https://github.com/TheMuntu/blog.git
 * Enter the project & Install requirements:
-  * $cd blog && pip install -r requirements.txt
+  * $ cd blog && pip install -r requirements.txt
  
 * Run the program the project:
-    * python manage.py runserver 
+    * $ python manage.py runserver 
     
 * Navigation Scheme:
     * /
@@ -17,6 +17,6 @@ Check the project demo here: https://pacmanblog2.herokuapp.com/
     
     
     
- ##### Created by Pacome Kemkeu
- ##### add me on Twitter @TKemkeu
+ ##### @Pacm4n
+
  
